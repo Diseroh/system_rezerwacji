@@ -41,9 +41,6 @@ Zbudowana w PHP z wykorzystaniem HTML, CSS, MySQL (MariaDB) oraz opcjonalnie Jav
 - `config.php` – połączenie z bazą danych
 - `baza.sql` – struktura + przykładowe dane do bazy
 
-## 🖥️ Zrzuty ekranu
-
-📸 Dodaj tutaj screeny z opisem działania aplikacji (np. formularz, panel admina, itp.)
 
 ---
 
